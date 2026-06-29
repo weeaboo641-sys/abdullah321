@@ -1,2 +1,2 @@
-# abdullah321
-this is my portfolio 
+# Abdullah 
+This is my portfolio
